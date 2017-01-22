@@ -1,0 +1,169 @@
+#BG{
+
+    left:0;
+    width:100%;
+ 
+	background: #0B3B39;
+	text-shadow:0px 0px #0B3B39;
+	border-top:0px solid #0B3B39;
+	opacity:0.6;
+	filter:alpha(opacity=60)
+	z-index:999;
+}
+#BGTap{
+
+	
+	
+	
+	
+	
+    
+    left:0;
+    width:45%;
+    text-align: center;
+	background: #000000;
+	text-shadow:1px 1px #000000;
+	border-top:3px solid #000000;
+	opacity:0.6;
+	filter:alpha(opacity=60)
+	z-index:999;
+}
+#Tapp{
+	border-right: thick double #0B3B39;
+	}
+#BGTapTop{
+
+    
+    text-align: left;
+	background: #0B3B39;
+	border-top:3px solid #0B3B39;
+	opacity:0.6;
+	filter:alpha(opacity=60)
+	z-index:999;
+	text-decoration:none;
+	font-family: DTAC-Normal;
+		font-size:18px;
+	    color: #FFFFFF;
+		text-align:left;
+}
+
+	
+#Tap{
+
+    left:0;
+    width:100%;
+
+	background: #000000;
+	text-shadow:1px 1px #000000;
+	border-top:3px solid #000000;
+	opacity:0.6;
+	filter:alpha(opacity=60)
+	z-index:999;
+	}
+	#TapTop{
+    top:0;
+    left:0;
+  
+    font-family: Century Gothic;
+	color: #FFFFFF;
+	background: #000000;
+	text-shadow:1px 1px #000000;
+	border-top:3px solid #000000;
+	opacity:0.6;
+	filter:alpha(opacity=60)
+	z-index:999;
+	}
+CrBODy{
+	background: #848b79;
+	}
+body{
+	background: #848b79;
+	}
+#TextTopic{
+	font-family: Century Gothic;
+	color: #FFFFFF;
+	}
+	#TextHead{
+		font-family: DTAC-Normal;
+		font-size:105px;
+	    color: #FFFFFF;
+		text-align: right;
+		}
+	
+		#TextSize150{
+	font-size:150px;
+	text-align: right;
+			}
+			
+			#TextSize36{
+	font-family: DTAC-Normal;
+	font-size:18px;
+	color: #FFFFFF;
+	text-align: left;
+			}
+				#TextSizeE36{
+	font-family: DTAC-Normal;
+	font-size:18px;
+	color: #FFFFFF;
+	text-align: right;
+			}
+				#TextSize10{
+				font-family: DTAC-Normal;
+		font-size:10px;
+	    color: #FFFFFF;
+		text-align: right;
+			}
+			#Dok{
+				 top:0;
+    left:0;
+    width:100%;
+	text-shadow:1px 1px #0B3B39;
+	opacity:0.4;
+	filter:alpha(opacity=35)
+    text-align: left;
+				}
+#FontFile{
+	font-family: DTAC-Normal;
+	font-size:15px;
+	color: #FFFFFF;
+	text-align: left;
+	top:auto;
+	text-decoration:none;
+	}
+	
+	#buttom{
+			font-family: DTAC-Normal;
+	font-size:15px;
+	color: #FFFFFF;
+	text-align: right;
+		}
+#buttomEx{
+			font-family: DTAC-Normal;
+	font-size:15px;
+	color: #FFFFFF;
+	text-align: left;
+	
+	
+	background: #000000;
+	text-shadow:0px 0px #000000;
+	border-top:0px #000000;
+	
+	
+		}
+		::-webkit-scrollbar {  
+    width: 0px;  
+}  
+::-webkit-scrollbar-track {  
+    background-color: #eaeaea;  
+    border-left: 1px solid #ccc;  
+}  
+::-webkit-scrollbar-thumb {  
+    background-color: #ccc;  
+}  
+::-webkit-scrollbar-thumb:hover {  
+    background-color: #aaa;  
+} 
+
+	
+	
+	
